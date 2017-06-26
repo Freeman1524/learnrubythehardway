@@ -1,12 +1,16 @@
 for i in 1..100
 
-    if i % 3 == 0
-    	puts "Mined"
+    if i % 3 == 0 && i % 5 == 0
+        puts "Mined Minds"
+
+    elsif i % 3 == 0
+        puts "Mined"
 
     elsif i % 5 == 0
-    	puts "Minds"
+        puts "Minds"
 
     else
-    	puts i
+        puts i 
     end
 end
+   
