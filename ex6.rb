@@ -33,4 +33,4 @@ w = "This is the left side of..."
 e = "a string with a right side."
 
 # Prints the variables w + e to the console.
-puts w + e
+puts w + e #the reason while w + e prints a longer string is because it's buts the string of the two variables together.
