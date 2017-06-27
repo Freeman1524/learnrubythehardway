@@ -10,7 +10,7 @@ puts "Here are the days: #{days}"
 # prints string below and uses # operator to show months variable  
 puts "Here are the months: #{months}"
 
-# Uses %q to make a single quote string
+# Uses %q to make a single quote string and prints it to console
 puts %q{
 	Theres something going on here.
 	With this weird quote
